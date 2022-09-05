@@ -1,6 +1,6 @@
 # AGG-UCB
 
-This is an implementation of the paper "Neural Bandit with Arm Group graph".
+This is an implementation of the paper "Neural Bandit with Arm Group Graph".
 
 To run the AGG-UCB, please refer to "AGG_UCB_Run.py" for details. Use individual sets of parameters for different datasets.
 
